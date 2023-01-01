@@ -14,7 +14,7 @@
     "@midwayjs/koa": "^3.8.0",
     "@midwayjs/rpc": "^3.0.0",
     "install-peers": "^1.0.4",
-    "isomorphic-unfetch": "^3.1.0",
+    "isomorphic-unfetch": "^4.0.1",
     "vue": "^3.2.45"
   },
   "devDependencies": {
